@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mac/Desktop/EXAM/EXAM_RANK_02/LEVEL2",
+      "program": "/Users/mac/Desktop/EXAM/EXAM_RANK_02/LEVEL2/build/Debug/outDebug"
+    }
+  ]
+}
